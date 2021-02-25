@@ -1,6 +1,8 @@
 # Santorini
 
-The executable for the tournament is `./santorini`.
+This is a simple Santorini program written for CS 6963: Functional Programming Studio at the University of Utah.
+
+The executable for the tournament is `./santorini`, but it doesn't work on CADE yet.
 
 ## Installation
 
