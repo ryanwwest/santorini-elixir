@@ -1,6 +1,6 @@
 # Santorini
 
-The executable for the tournament is `./santorini`.
+The executable for the tournament is `./santorini-executable`.
 
 ## Installation
 
